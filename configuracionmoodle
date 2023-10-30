@@ -1,0 +1,55 @@
+Pràctica UF4 - Instal·lació i configuració de moodle
+
+1. Inicia sessió com a administrador del teu Moodle i realitza les següents tasques prèvies d'administració.
+
+Primero de todo, lo que nos pide hacer es cambiar la dirección de correo electronico, poner otra contresenya y poner un avatar:
+
+![Perfil antes de cambiarlo](imagenes/miperfil.png)
+Y ahora lo cambiare:
+![Perfil ya cambiado](imagenes/minuevoperfil.png)
+
+Despues nos pide que cambiemos el nombre de nuestro sitio. Esto lo haremos yendo a la pagina principal, y despues le daremos a configuración y cambiaremos el nombre:
+
+![Configuración del nombre de nuestro sitio antes de cambiarlo](imagenes/milugar.png)
+Y ahora lo cambiare:
+![Configuración del nombre de nuestro sitio despues de cambiarlo](imagenes/minuevolugar.png)
+
+Ahora nos iremos a comprobar la franja horaria sea la correcta. Esto lo haremos yendo a administración del sitio, buscaremos "Ubicación" y le daremos a "Parametros":
+
+![Franja horaria](imagenes/franjahoraria.png)
+
+El siguiente paso es canviar el idioma de mi sitio. Esto lo haremos yendo a administración del sitio, buscaremos "Idioma" y le daremos a "Parametros":
+
+![El idioma del sitio](imagenes/Idiomadelsitio.png)
+
+Despues tendremos que camviar la politica de las contrasenyas. Esto le haremos yendoa a administración del lugar, buscaremos "Seguretat y le daremos a Normativas del lugar:
+
+![Politica de contrasenyas](imagenes/Politicacontrasenya.png)
+
+
+2. Crea els següents cursos: un curs anomenat A (sense categoria) que estigui format per 3 temes i un altre anomenat B (també sense categoria) que estigui format per 5 temes. 
+
+![Curso A](imagenes/cursoA.png)
+![Curso B](imagenes/cursoB.png)
+
+
+3. Vés a algun dels cursos creats al punt anterior (simplement seleccionant-lo dins del quadre Navegació) i fes que contingui en algun del seus temes algun tipus de material (un document PDF, per exemple), canvia el títol d'algun tema i, en general, investiga les possibilitats que et dóna el botó Activar edició en un curs.
+
+![Curso A le he puesto nombre a los temas y he añadido un documento PDF](imagenes/cursoAtemas.png)
+
+
+4. Creació d’usuaris i alumnes.
+
+a) Crea manualment un usuari anomenat Bob que ha de fer servir el mètode d'autenticació manual. Això es pot fer des de Administració del lloc > Usuaris > Comptes > Afegeix un usuari
+
+![Nuevo usuario](imagenes/bobusuario.png)
+
+b) Genera deu alumnes que ho seran dels dos cursos A i B . Fes servir un arxiu CSV per realitzar aquesta creació en bloc. Vés a Administració del lloc > Usuaris > Comptes > Carrega usuaris i segueix els passos que et marca.
+
+
+
+
+
+
+
+
