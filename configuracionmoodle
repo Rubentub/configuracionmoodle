@@ -93,3 +93,37 @@ Y ahora el curso B
 
 ![newproject ha entregado la tarea](imagenes/entregatarea.png)
 
+
+
+Continguts
+
+En el curs A crea una UF amb 2 NF dintre. En aquesta UF crea diverses activitats.
+
+![uf1 con dos tareas y dos archivos](imagenes/uf1tareas.png)
+
+Botó Activar Edició (a dalt a la dreta). Una UF es pot crear amb una etiqueta i movent a la dreta el seu contingut. Es pot canviar el Format del curs a Temes a Administració del Curs > Editar Curs > Format del Curs
+
+Fes servir el moodle del puig com a referència. Han d’haver tant activitats magistrals com evaluables (com a mínim una entrega i un questionari). Clona (importa) el curs sencer al curs B Administració del Curs > Importar (des del curs B)
+
+![Clonamos el curso B](imagenes/clonarcursoB.png)
+
+
+
+Qualificació
+
+En el curs A fes que un alumne completi totes les tasques evaluables (entrant amb la seva compta). Calificales amb el professor i configura el calificador per a que doni una nota de la UF automàticament a Administració del Curs > Configuració de qualificacions.
+
+![Alumno completa todas las tareas](imagenes/tareascompletas.png)
+
+Crea una insignia i atorga-la a aquest alumne des de Administració del Lloc > Insígnies
+
+![Insignia creada](imagenes/insignia.png)
+
+
+Qüestionaris
+
+Crea un qüestionari i afegeix preguntes del banc de preguntes. Crea diferents categories dintre del banc de preguntes i diverses preguntes en cada categoria. A l'hora de crear el qüestionari has de seleccionar les preguntes del banc de preguntes. Respon les preguntes del qüestionari amb un usuari estudiant i mira les qualificacions amb l'usuari professor.
+
+![Preguntas questionario](imagenes/preguntas.png)
+
+
