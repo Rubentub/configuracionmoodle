@@ -124,6 +124,21 @@ Qüestionaris
 
 Crea un qüestionari i afegeix preguntes del banc de preguntes. Crea diferents categories dintre del banc de preguntes i diverses preguntes en cada categoria. A l'hora de crear el qüestionari has de seleccionar les preguntes del banc de preguntes. Respon les preguntes del qüestionari amb un usuari estudiant i mira les qualificacions amb l'usuari professor.
 
-![Preguntas questionario](imagenes/preguntas.png)
+![Preguntas cuestionario](imagenes/preguntas.png)
+Y ahora las notas de dos alumnos
+![Nota del primer cuestionario](imagenes/notaalumno.png)
+![Nota del primer cuestionario](imagenes/notaalumno1.png)
 
 
+Importar i exportar un curs
+
+Entra a la zona Administració > Cursos > Còpies i fes una còpia de seguretat del teu curs. Després envia aquest fitxer a un company i que l'importi al seu moodle. Has d'importar al teu moodle un altre curs d'un company.
+
+![Donde exportar un curso](imagenes/exportarcurso.png)
+
+
+Seguretat
+
+Baneja una IP i aplica una política de seguretat. Pots posar la que vulguis però l’hauràs de justificar.
+
+![Bloqueamos una ip](imagenes/ipbaneada.png)
